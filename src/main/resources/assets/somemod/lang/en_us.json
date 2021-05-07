@@ -1,0 +1,6 @@
+{
+  "item.somemod.sweet_axe": "Sweet Axe",
+  "item.somemod.teleporter": "Teleporter",
+  "itemGroup.somemod.somemoditems": "Somemod+",
+  "message.somemod.cannotTeleportThere": "You cannot teleport to that location!"
+}
